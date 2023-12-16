@@ -20,13 +20,13 @@ body {
   }
   
   .tile-image {
-    height: 100px;
+    height: 200px;
     float: left;
     margin-right: 50px;
   }
   
   .card {
-    width: 30%;
+    width: 45%;
   }
   
   .left {
@@ -43,7 +43,7 @@ body {
   
   @media (max-width: 680px) {
     .logo {
-      width: 100px;
+      width: 50px;
     }
   
     h1 {
@@ -60,7 +60,7 @@ body {
   
     .card img {
       margin-bottom: 10px;
-      width: 50%;
+      width: 100%;
       display: inline;
       object-fit: cover;
     }
